@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+}
+
+.navbar{
+    overflow: hidden;
+    position: fixed;
+    top: 0;   
+}
+
+.navbar a{
+  float: left;  
+  display: block;
+  color: blueviolet;
+  text-align: center;
+  font-size:15;
+}
+.navbar a:hover{
+    background-color: crimson;
+    color: black;
+}
